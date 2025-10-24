@@ -1,0 +1,30 @@
+body {
+  background-color: aqua;
+  font-family: Georgia, serif;
+}
+
+h1 {
+  font-family: "Comic Sans MS";
+  font-size: 60px;
+  color: darkblue;
+  text-align: center;
+}
+
+h4 {
+  text-align: right;
+  font-style: italic;
+}
+
+div a {
+  color: white;
+}
+
+div p {
+  text-align: center;
+  color: orange
+}
+
+div+p {
+    text-align: right;
+    line-height: 30px;
+}
